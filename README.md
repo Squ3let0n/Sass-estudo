@@ -1,6 +1,6 @@
 # Sass-estudo
 
-<a href="https://squ3let0n.github.io/Sass-estudo/" target="_blank"><h3>Link do projeto</h3></a>
+<a href="https://wizardly-heyrovsky-1b6b55.netlify.app" target="_blank"><h3>Link do projeto</h3></a>
 
 <div style="display: flex" "justify-content: center" "margin-left:0">
   <figure class="figure__img">
